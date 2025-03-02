@@ -36,6 +36,8 @@ Here is how you can use Winbox:
 2. **Create a Virtual Machine**:
    - Click on the "Create VM" button.
    - Select the uploaded ISO file and desired configuration.
+   - Choose CPU from 2-16
+   - Enable or disable GPU
    - Click "Start" to launch your virtual machine.
 
 3. **Manage Virtual Machines**:
@@ -43,10 +45,7 @@ Here is how you can use Winbox:
    - Start, stop, or delete virtual machines as needed.
    - Access the console to interact with your virtual machines.
 
-```bash
-# Example command to start a virtual machine
-winbox start <vm_id>
-```
+
 
 ## Contributing
 
