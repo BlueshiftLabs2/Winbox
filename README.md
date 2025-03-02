@@ -1,4 +1,5 @@
 # Winbox
+![Winbox](https://github.com/user-attachments/assets/52c7605a-ede2-440f-9ee6-debcc8cb17ce)
 
 Welcome to the Winbox repository!
 
