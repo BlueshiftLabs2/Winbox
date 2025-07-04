@@ -1,0 +1,15 @@
+name = "winbox"
+type = "webpack"
+account_id = ""  # Fill in with your Cloudflare account ID
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2025-03-01"
+
+[site]
+bucket = "./frontend/build"
+entry-point = "workers-site"
+
+[build]
+command = "npm run build"
+watch_dir = "frontend/src"
